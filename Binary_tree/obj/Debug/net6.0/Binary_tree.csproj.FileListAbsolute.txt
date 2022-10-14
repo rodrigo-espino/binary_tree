@@ -1,0 +1,15 @@
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/bin/Debug/net6.0/Binary_tree
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/bin/Debug/net6.0/Binary_tree.deps.json
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/bin/Debug/net6.0/Binary_tree.runtimeconfig.json
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/bin/Debug/net6.0/Binary_tree.dll
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/bin/Debug/net6.0/Binary_tree.pdb
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/obj/Debug/net6.0/Binary_tree.csproj.AssemblyReference.cache
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/obj/Debug/net6.0/Binary_tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/obj/Debug/net6.0/Binary_tree.AssemblyInfoInputs.cache
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/obj/Debug/net6.0/Binary_tree.AssemblyInfo.cs
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/obj/Debug/net6.0/Binary_tree.csproj.CoreCompileInputs.cache
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/obj/Debug/net6.0/Binary_tree.dll
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/obj/Debug/net6.0/refint/Binary_tree.dll
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/obj/Debug/net6.0/Binary_tree.pdb
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/obj/Debug/net6.0/Binary_tree.genruntimeconfig.cache
+/Users/rodrigosantacruzespino/Projects/Binary_tree/Binary_tree/obj/Debug/net6.0/ref/Binary_tree.dll
